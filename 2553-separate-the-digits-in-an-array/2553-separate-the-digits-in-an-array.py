@@ -5,5 +5,4 @@ class Solution:
             for j in str(i):
                 arr.append(int(j))
         return arr
-
         
