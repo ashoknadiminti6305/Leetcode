@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2544-alternating-digit-sum](https://github.com/ashoknadiminti6305/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ashoknadiminti6305/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
