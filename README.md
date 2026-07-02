@@ -7,4 +7,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3783-mirror-distance-of-an-integer](https://github.com/ashoknadiminti6305/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+## Array
+|  |
+| ------- |
+| [1848-minimum-distance-to-the-target-element](https://github.com/ashoknadiminti6305/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 <!---LeetCode Topics End-->
