@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0175-combine-two-tables) |
+| [1661-average-time-of-process-per-machine](https://github.com/ashoknadiminti6305/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [3436-find-valid-emails](https://github.com/ashoknadiminti6305/Leetcode/tree/master/3436-find-valid-emails) |
 ## Divide and Conquer
 |  |
