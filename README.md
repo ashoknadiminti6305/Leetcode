@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0204-count-primes) |
 | [2544-alternating-digit-sum](https://github.com/ashoknadiminti6305/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashoknadiminti6305/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ashoknadiminti6305/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0204-count-primes) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ashoknadiminti6305/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashoknadiminti6305/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Simulation
@@ -32,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0190-reverse-bits) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
