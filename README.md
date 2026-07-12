@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0204-count-primes) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ashoknadiminti6305/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashoknadiminti6305/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0204-count-primes) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
