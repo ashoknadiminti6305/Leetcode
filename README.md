@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0204-count-primes) |
+| [0704-binary-search](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0704-binary-search) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ashoknadiminti6305/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashoknadiminti6305/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Simulation
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0415-add-strings) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
