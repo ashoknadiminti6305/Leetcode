@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0415-add-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ashoknadiminti6305/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2544-alternating-digit-sum](https://github.com/ashoknadiminti6305/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashoknadiminti6305/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ashoknadiminti6305/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0204-count-primes) |
 | [0704-binary-search](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0704-binary-search) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ashoknadiminti6305/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ashoknadiminti6305/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashoknadiminti6305/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Simulation
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ashoknadiminti6305/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
