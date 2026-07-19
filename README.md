@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0204-count-primes) |
+| [0367-valid-perfect-square](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0415-add-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashoknadiminti6305/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2544-alternating-digit-sum](https://github.com/ashoknadiminti6305/Leetcode/tree/master/2544-alternating-digit-sum) |
@@ -64,5 +65,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0367-valid-perfect-square](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
