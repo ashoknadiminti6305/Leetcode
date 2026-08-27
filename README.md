@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0204-count-primes](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0204-count-primes) |
 | [0704-binary-search](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ashoknadiminti6305/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashoknadiminti6305/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashoknadiminti6305/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -67,4 +68,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0367-valid-perfect-square](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
