@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0415-add-strings](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0415-add-strings) |
 ## Binary Search
 |  |
@@ -69,4 +70,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
