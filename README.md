@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1051-height-checker](https://github.com/ashoknadiminti6305/Leetcode/tree/master/1051-height-checker) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ashoknadiminti6305/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashoknadiminti6305/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashoknadiminti6305/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -100,4 +101,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0217-contains-duplicate) |
+| [1051-height-checker](https://github.com/ashoknadiminti6305/Leetcode/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ashoknadiminti6305/Leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ashoknadiminti6305/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
