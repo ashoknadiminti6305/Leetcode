@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
@@ -108,12 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0217-contains-duplicate) |
 | [1051-height-checker](https://github.com/ashoknadiminti6305/Leetcode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashoknadiminti6305/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/ashoknadiminti6305/Leetcode/tree/master/1051-height-checker) |
 ## Bubble Sort
 |  |
@@ -127,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0053-maximum-subarray) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
