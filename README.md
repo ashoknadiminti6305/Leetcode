@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1051-height-checker](https://github.com/ashoknadiminti6305/Leetcode/tree/master/1051-height-checker) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ashoknadiminti6305/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashoknadiminti6305/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Database
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
