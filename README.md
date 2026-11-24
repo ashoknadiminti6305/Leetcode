@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0415-add-strings](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0415-add-strings) |
 ## Binary Search
@@ -146,5 +147,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0682-baseball-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ashoknadiminti6305/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
